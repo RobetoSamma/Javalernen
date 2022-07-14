@@ -11,7 +11,7 @@ public class Fahrzeug {
     }
     public void fahren(){
 
-        System.out.println(this.Marke+" brummmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm");
+        System.out.println(this.Marke+" brum");
 
     }
 
