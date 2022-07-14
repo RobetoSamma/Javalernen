@@ -16,7 +16,7 @@ public class Fahrzeug {
     }
 
     public String getPortfolio(){
-        return "Das Auto ist ein " + this.Marke + this.Modell + " mit " + this.Zylinder + " Zylindern und " + this.PS;
+        return "Das Fahrzeug ist ein " + this.Marke + this.Modell + " mit " + this.Zylinder + " Zylindern und " + this.PS;
 
     }
 
