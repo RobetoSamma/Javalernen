@@ -1,6 +1,6 @@
 public class Datatypes {
 
-    static int zahl = 9;
+    static int zahl = 8;
     static float kommazahl = 69.420f;
     static double kommazahl2 = 69.420;
 
